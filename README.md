@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Criando bugs desde 2020 (mas consertando a maioria deles 😄)<br>📚 Estudando focado atualmente dados e ML<br>🎯 Objetivos: Construir aplicações escaláveis e solucionar problemas do mundo real.</p>
+<p align="left">✨ Criando bugs desde 2022 (mas consertando a maioria deles 😄)<br>📚 Estudando focado atualmente dados e ML<br>🎯 Objetivos: Construir aplicações escaláveis e solucionar problemas do mundo real.</p>
 
 ###
 
